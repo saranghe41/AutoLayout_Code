@@ -62,6 +62,7 @@ class ViewController: UIViewController {
     }
 }
 
+// PreiView 띄우기
 #if DEBUG
 import SwiftUI
 struct ViewControllerRepresentable: UIViewControllerRepresentable {
